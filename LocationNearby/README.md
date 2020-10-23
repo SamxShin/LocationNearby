@@ -8,4 +8,5 @@ Limitations: The original plan was to use a relational database such as PostgreS
 The naive program and picture of output into PostgreSQL database will be in the database folder
 *please ignore the data inputted in the image folder, that picutre was to show for testing purposes only*
 
-Thanks, Samuel Shin
+Thanks,
+Samuel Shin
