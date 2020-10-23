@@ -11,7 +11,7 @@ import (
 
 func main() {
 	//replace this with personal api code attained from google geocode API
-	geocoder.APIKey = "AIzaSyCL6dhFaEbyzxOfSHlcmkthpS48xu0jSYQ"
+	geocoder.APIKey = *ENTER APIKEY HERE*
 	var street, city, state, country string
 	var number int
 	var lng, lat float64
